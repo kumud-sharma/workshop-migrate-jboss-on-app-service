@@ -5,6 +5,9 @@
 .p-t-8 {
 	  padding-top: 8px !important;
 }
+.navbar-header {
+    background: bisque
+}
 
 [ng-click],
 [data-ng-click],
